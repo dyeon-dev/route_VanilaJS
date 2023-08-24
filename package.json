@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "esmodule": "^0.2.1"
   }
 }
